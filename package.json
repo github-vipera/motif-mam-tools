@@ -1,0 +1,37 @@
+{
+  "name": "dynamicengine-mam-tools",
+  "main": "./lib/dynamicengine-mam-tools",
+  "version": "0.4.7",
+  "description": "Dynamic Engine Templates Tool Plugin for ATOM",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "dynamicengine-mam-tools:toggle"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/github-vipera/dynamicengine-mam-tools.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "@nsisodiya/eventbus": "^1.1.0",
+    "ajv": "^4.10.0",
+    "atom-message-panel": "^1.2.7",
+    "atom-quick-pane": "^1.0.1",
+    "electron-settings": "^2.2.2",
+    "express": "^4.10.2",
+    "handlebars": "^4.0.6",
+    "json-markup": "^1.1.0",
+    "lodash": "^4.16.6",
+    "loophole": "^1.1.0",
+    "request": "^2.79.0",
+    "simple-git": "^1.62.0",
+    "socket.io": "^1.2.0",
+    "unirest": "^0.5.1",
+    "winston": "^2.2.0"
+  }
+}

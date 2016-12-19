@@ -1,0 +1,27 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Dynamic Engine",
+          "submenu": [
+            {
+              "label" : "MOTIF API Modeler",
+              "submenu" : [
+                {
+                  "label": "Workbench",
+                  "command": "dynamicengine-mam-tools:toggle"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
