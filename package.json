@@ -1,12 +1,12 @@
 {
-  "name": "dynamicengine-mam-tools",
-  "main": "./lib/dynamicengine-mam-tools",
+  "name": "motif-mam-tools",
+  "main": "./lib/motif-mam-tools",
   "version": "0.4.7",
   "description": "Dynamic Engine Templates Tool Plugin for ATOM",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
-      "dynamicengine-mam-tools:toggle"
+      "motif-mam-tools:toggle"
     ]
   },
   "repository": {
