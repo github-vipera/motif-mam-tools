@@ -125,5 +125,5 @@
         'include': '#object'
       }
     ]
-    
-'scopeName': 'source.mam'
+
+'scopeName': 'source.json'
