@@ -18,7 +18,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "@nsisodiya/eventbus": "^1.1.0",
+    "@nsisodiya/eventbus": "github:nsisodiya/eventbus",
     "ajv": "^4.10.0",
     "atom-message-panel": "^1.2.7",
     "atom-quick-pane": "^1.0.1",
