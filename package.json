@@ -8,7 +8,8 @@
     "atom-workspace": [
       "motif-mam-tools:toggle",
       "motif-mam-tools-newproj:show",
-      "motif-mam-tools:showToolbar"
+      "motif-mam-tools:showToolbar",
+      "motif-mam-tools:exportToPostman"
     ]
   },
   "repository": {
