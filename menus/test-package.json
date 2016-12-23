@@ -20,6 +20,10 @@
                 {
                   "label": "Workbench",
                   "command": "motif-mam-tools:toggle"
+                },
+                {
+                  "label": "Toolbar",
+                  "command": "motif-mam-tools:showToolbar"
                 }
               ]
             }

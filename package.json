@@ -7,7 +7,8 @@
   "activationCommands": {
     "atom-workspace": [
       "motif-mam-tools:toggle",
-      "motif-mam-tools-newproj:show"
+      "motif-mam-tools-newproj:show",
+      "motif-mam-tools:showToolbar"
     ]
   },
   "repository": {
@@ -36,5 +37,15 @@
     "socket.io": "^1.2.0",
     "unirest": "^0.5.1",
     "winston": "^2.2.0"
+  },
+  "package-deps": [
+    "tool-bar"
+  ],
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    }
   }
 }
