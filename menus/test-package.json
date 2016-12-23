@@ -14,6 +14,10 @@
               "label" : "MOTIF API Modeler",
               "submenu" : [
                 {
+                  "label": "New MAM Project",
+                  "command": "motif-mam-tools-newproj:toggle"
+                },
+                {
                   "label": "Workbench",
                   "command": "motif-mam-tools:toggle"
                 }

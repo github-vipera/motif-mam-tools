@@ -6,7 +6,8 @@
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
-      "motif-mam-tools:toggle"
+      "motif-mam-tools:toggle",
+      "motif-mam-tools-newproj:toggle"
     ]
   },
   "repository": {
