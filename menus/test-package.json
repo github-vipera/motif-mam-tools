@@ -15,7 +15,7 @@
               "submenu" : [
                 {
                   "label": "New MAM Project",
-                  "command": "motif-mam-tools-newproj:toggle"
+                  "command": "motif-mam-tools-newproj:show"
                 },
                 {
                   "label": "Workbench",
