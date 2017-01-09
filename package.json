@@ -1,7 +1,7 @@
 {
   "name": "motif-mam-tools",
   "main": "./lib/motif-mam-tools",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Dynamic Engine Templates Tool Plugin for ATOM",
   "keywords": [],
   "activationCommands": {
