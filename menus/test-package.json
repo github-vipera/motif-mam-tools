@@ -28,6 +28,10 @@
                 {
                   "label": "Export to Postman",
                   "command" : "motif-mam-tools:exportToPostman"
+                },
+                {
+                  "label": "Generate Mock",
+                  "command" : "motif-mam-tools:generateMock"
                 }
               ]
             }
