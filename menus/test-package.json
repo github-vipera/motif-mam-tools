@@ -18,6 +18,10 @@
                   "command": "motif-mam-tools-newproj:show"
                 },
                 {
+                  "label": "New MAM File",
+                  "command": "motif-mam-tools-newfile:show"
+                },
+                {
                   "label": "Workbench",
                   "command": "motif-mam-tools:toggle"
                 },

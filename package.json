@@ -10,7 +10,8 @@
       "motif-mam-tools-newproj:show",
       "motif-mam-tools:showToolbar",
       "motif-mam-tools:exportToPostman",
-      "motif-mam-tools:generateMock"
+      "motif-mam-tools:generateMock",
+      "motif-mam-tools-newfile:show"
     ]
   },
   "repository": {
