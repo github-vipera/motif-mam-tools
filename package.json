@@ -4,16 +4,6 @@
   "version": "0.13.0",
   "description": "MOTIF API Modeler Tool Plugin for ATOM",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": [
-      "motif-mam-tools:toggle",
-      "motif-mam-tools-newproj:show",
-      "motif-mam-tools:showToolbar",
-      "motif-mam-tools:exportToPostman",
-      "motif-mam-tools:generateMock",
-      "motif-mam-tools-newfile:show"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/github-vipera/motif-mam-tools.git"
